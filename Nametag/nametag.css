@@ -1,0 +1,6 @@
+* {text-align: center;color: darkred; }
+body {border-radius: 5px; border-width: 10px; border-style: solid;color: black;}
+h1 {background-color:darkred;color:white; font-weight: bold;}
+p {color: black;font-family: "Lucida Console"; font-size: 50px; font-weight: bolder;}
+h2 {background-color:darkred;color:darkred}
+h3 {background-color:darkred; color:white;}
